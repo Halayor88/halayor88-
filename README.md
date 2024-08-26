@@ -1,4 +1,4 @@
-[![masterhead]_(https://images.app.goo.gl/HguuugheoJ2nopkt8)
+[![masterhead]_(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfVemluTpcmi2e0qGN484F4v86niwWbULKw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Ilesanmi Temitope</h1>
 <h3 align="center">Cybersecurity Analyst</h3>
 
